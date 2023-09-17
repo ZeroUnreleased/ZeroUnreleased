@@ -22,3 +22,6 @@ En Zero to One, te ofrecemos una amplia variedad de recursos y actividades:
 
 Para comenzar, explora nuestros diferentes canales y participa en las conversaciones. ¡Esperamos verte en la comunidad y que juntos podamos aprender, crecer y prosperar en el mundo de las criptomonedas!
 
+## Contactanos
+
+Si tienes dudas puedes enviarnos un correo electrónico a: [Correo Electrónico](mailto:ejemplo@ejemplo)
