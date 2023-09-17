@@ -6,7 +6,9 @@
 
 En Zero to One, te ofrecemos una amplia variedad de recursos y actividades:
 
-- **Seguridad y Gestión del Riesgo:** La seguridad es fundamental en el mundo de las criptomonedas. Compartiremos consejos, mejores prácticas y análisis de riesgos para ayudarte a proteger tus activos digitales.
+- **Seguridad en Criptomonedas:** ¿Dudas sobre cualquier cosa? No sabes a quien preguntar? Ahora si. La seguridad es fundamental en el mundo de las criptomonedas. Compartiremos consejos, mejores prácticas y análisis de riesgos para ayudarte a proteger tus activos digitales. 
+
+- **Gestión del Riesgo:** Compartiremos consejos, mejores prácticas y bla bla bla
 
 - **Exploración de Web3:** Estamos entusiasmados con las tecnologías web3 y su impacto en el mundo. Aquí encontrarás discusiones y tutoriales sobre blockchain, contratos inteligentes y más.
 
@@ -24,4 +26,8 @@ Para comenzar, explora nuestros diferentes canales y participa en las conversaci
 
 ## Contactanos
 
-Si tienes dudas puedes enviarnos un correo electrónico a: [Correo Electrónico](mailto:ejemplo@ejemplo)
+Si tienes dudas puedes enviarnos un [Correo Electrónico](mailto:ejemplo@ejemplo)
+
+## Cómo Unirte
+
+
