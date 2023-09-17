@@ -6,8 +6,6 @@ Con este programa, puedes ganar recompensas por invitar a nuevos miembros a unir
 
 ## Cómo funciona
 
-- Cada persona que invites a la comunidad recibirá un descuento especial en su membresía mensual de **$5** durante el primer mes.
-
 - Como agradecimiento por invitar a nuevos miembros, recibirás un **10%** de lo que cada persona que invites pague en su membresía mensual, a partir del segundo mes.
 
 ## Cómo participar
