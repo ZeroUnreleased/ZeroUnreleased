@@ -26,7 +26,7 @@ Para comenzar, explora nuestros diferentes canales y participa en las conversaci
 
 ## Contactanos
 
-Si tienes dudas puedes enviarnos un [Correo Electrónico](mailto:ejemplo@ejemplo)
+Si tienes dudas puedes enviarnos un [Correo Electrónico](mailto:zero.unreleased@outlook.com)
 
 ## Cómo Unirte
 # Instrucciones de Pago para Acceder a la Comunidad Zero to One
@@ -49,7 +49,7 @@ Una vez que hayas realizado el pago, tendrás acceso completo a la comunidad.
 ## 2. Contacta con Nosotros
 
 - Acto seguido, por favor, envía un correo electrónico a la siguiente dirección:
-  - Correo Electrónico: [ejemplo@ejemplo](mailto:ejemplo@ejemplo)
+  - Correo Electrónico: [ejemplo@ejemplo](mailto:zero.unreleased@outlook.com)
   
 - En el correo electrónico, incluye los siguientes detalles:
   - El hash de la transacción que utilizaste para realizar el pago.
