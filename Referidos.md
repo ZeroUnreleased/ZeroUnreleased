@@ -22,5 +22,7 @@ Con este programa, puedes ganar recompensas por invitar a nuevos miembros a unir
 
 Si tienes alguna pregunta o necesitas más información sobre nuestro programa de referidos, no dudes en contactarnos en [zero.unreleased@outlook.com](mailto:zero.unreleased@outlook.com).
 
-¡Únete a nuestra comunidad y comienza a ganar recompensas por invitar a tus amigos hoy mismo!
+¡Si te gusta el contenido y crees que puede ser útil para otras personas, invitalos a ZTO y beneficate tu también.
+
+Probar solo les costará 5$. A partir de ahí, si se quedan, cuenta con tu pago mensual.
 
