@@ -22,8 +22,9 @@ No instales todas, pruebalas y quédate con una o dos, las que más te gusten.
 
 4. **Webacy - Servicio de Análisis de Riesgos para tu Wallet:**
    - Regístrate en Webacy y configura tu cuenta. Esta plataforma proporciona un "Risk Score" basado en indicadores de seguridad como contratos aprobados, integridad de smart contracts y más.
-   - Activa las notificaciones para recibir alertas por correo electrónico cada vez que se ejecute una transacción en tu wallet.
+   - Activa las notificaciones en Wallet Watch para recibir alertas por correo electrónico cada vez que se ejecute una transacción en tu wallet. 
    - Explora el Security Hub de Webacy, donde encontrarás la opción de hacer un "Backup & Panic" para transferir tus activos en un solo clic en caso de emergencia.
    - [Enlace a Webacy](https://dapp.webacy.com/onboarding/signup?referrer_id=qfVIuqlCTIReQ4oBMjoqBj1T4HY2&slug=ndAxYvLg&utm_source=chainvine&utm_medium=chainvine&utm_campaign=chainvine), usalo para tener acceso a funciones avanzadas.
 
-¡Una vez que hayas instalado estas extensiones y configurado Webacy, tu wallet estará mejor protegido contra posibles amenazas en el mundo de las criptomonedas! Recuerda probar todas las extensiones y elegir la que mejor se adapte a tus necesidades de seguridad.
+¡Una vez que hayas instalado estas extensiones y configurado Webacy, tu wallet estará mejor protegido contra posibles amenazas en el mundo de las criptomonedas! 
+Recuerda probar todas las extensiones y elegir la que mejor se adapte a tus necesidades de seguridad.
