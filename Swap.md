@@ -33,7 +33,9 @@ Voy a darte la opción de hacer swaps en un entorno de pruebas, fuera de todo ri
 
 ### Necesitas:
 
-Instala Metamask - Es algo sencillo. En caso de dudas preguntanos en el canal de Cryptoseguridad de ZTO.
-Añade la red de pruebas llamada Mumbai. Esta red de pruebas es el campo de pruebas de Polygon. Si vas a esta página, [El explorador de bloques de Mumbai](https://mumbai.polygonscan.com/)
-, abajo tienes un botón que dice ![image](https://github.com/ZeroUnreleased/ZeroUnreleased/assets/145182602/5ccc52ca-1cfd-451d-9075-d2cba9228b47)
+1. Instala Metamask - Es algo sencillo. En caso de dudas preguntanos en el canal de Cryptoseguridad de ZTO.
+2- Añade la red de pruebas llamada Mumbai. Esta red de pruebas es el campo de pruebas de Polygon. Si vas a esta página, [El explorador de bloques de Mumbai](https://mumbai.polygonscan.com/)
+, abajo tienes un botón que dice "Add Network".
+3. Conectate a [UniSwap](
+   Y verás esto: https://prnt.sc/j3mGjb_GULWT
 
