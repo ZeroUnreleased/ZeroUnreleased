@@ -39,4 +39,10 @@ Voy a darte la opción de hacer swaps en un entorno de pruebas, fuera de todo ri
 3. Conectate a [UniSwap](https://app.uniswap.org/swap)
 ![image](https://github.com/ZeroUnreleased/ZeroUnreleased/assets/145182602/5ef48b18-4a0d-4f66-8c5c-fcbb070650d3)
 
+4. Si ya has conectado tu wallet, como he hecho yo, verás el saldo que tienes en tu Metamask, que probablemente sea cero (0).
+5. Ve al canal de Cryptoseguridad de ZTO y pide Matic de Testnet. Necesitaremos tu dirección que empieza por "0x...."
+6. Ahora tu quieres hacer Swap de 0.1 Matic por un token que me he inventado llamado GAD, cuyo contrato es: 0x9E09BEd6c6Fb7b2870721b8C8AE2ffBaA9322F3a
+7. Tendrás que pegar ese contrato en la caja de intercambio de tokens, tal que así:
+   ![image](https://github.com/ZeroUnreleased/ZeroUnreleased/assets/145182602/9143844d-9c4d-40ce-9b79-eeb98702cc08)
 
+ 
