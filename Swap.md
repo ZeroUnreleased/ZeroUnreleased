@@ -21,3 +21,14 @@ Un exchange descentralizado, o DEX por sus siglas en inglés (Decentralized Exch
 - Resistencia a la censura: Debido a su naturaleza descentralizada, los DEX son más resistentes a la censura y la intervención gubernamental. No pueden ser cerrados o controlados fácilmente por una entidad central.
 
 Este es un resumen de las diferencias clave entre los exchanges centralizados y descentralizados. Cada tipo de exchange tiene sus propias ventajas y desventajas, y la elección entre ellos depende de las preferencias individuales y los objetivos de los usuarios.
+
+## Pero
+Hacer operaciones en un Exchange Descentralizado (DEX) no es tan facil como en un CEX, debido a que mayormente, estás tu solo contra el enemigo. 
+Y es muy dificil hacer pruebas. 
+Hasta hoy.
+
+## ¿Qué vamos a hacer?
+
+Voy a darte la opción de hacer swaps en un entorno de pruebas, fuera de todo riesgo, proporcionandote yo todas las herramientas, incluso las criptomonedas (que no tienen valor) para poder hacerlo.
+
+### Neces
