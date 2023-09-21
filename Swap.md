@@ -31,4 +31,8 @@ Hasta hoy.
 
 Voy a darte la opción de hacer swaps en un entorno de pruebas, fuera de todo riesgo, proporcionandote yo todas las herramientas, incluso las criptomonedas (que no tienen valor) para poder hacerlo.
 
-### Neces
+### Necesitas:
+
+Instala Metamask - Es algo sencillo. En caso de dudas preguntanos en el canal de Cryptoseguridad de ZTO.
+Añade la red de pruebas llamada Mumbai. Esta red de pruebas es el campo de pruebas de Polygon. Si vas a esta página, [El explorador de bloques de Mumbai](https://mumbai.polygonscan.com/)
+, abajo tienes un botón que dice 
