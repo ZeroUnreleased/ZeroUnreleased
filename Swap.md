@@ -44,5 +44,27 @@ Voy a darte la opción de hacer swaps en un entorno de pruebas, fuera de todo ri
 6. Ahora tu quieres hacer Swap de 0.1 Matic por un token que me he inventado llamado GAD, cuyo contrato es: 0x9E09BEd6c6Fb7b2870721b8C8AE2ffBaA9322F3a
 7. Tendrás que pegar ese contrato en la caja de intercambio de tokens, tal que así:
    ![image](https://github.com/ZeroUnreleased/ZeroUnreleased/assets/145182602/9143844d-9c4d-40ce-9b79-eeb98702cc08)
+8. Y ahora como ya te hemos enviado Matic en Testnet podrías hacer esto:
+   ![image](https://github.com/ZeroUnreleased/ZeroUnreleased/assets/145182602/6c5b7b76-98db-465f-9912-04ad79a16f0f)
+9. Revisas la operación:
+   ![image](https://github.com/ZeroUnreleased/ZeroUnreleased/assets/145182602/75d72c61-23b0-47cd-8a3f-58fa7dbc88f6)
+10.El Swap espera confirmación:
+   ![image](https://github.com/ZeroUnreleased/ZeroUnreleased/assets/145182602/1d85b5b9-275c-4778-b590-7c5ede0b11b3)
+11. Debemos aprobar la transacción en Metamask:
+    ![image](https://github.com/ZeroUnreleased/ZeroUnreleased/assets/145182602/83a225bb-3136-44b2-8cd5-70ce72803e39)
+12. Swap Success:
+   ![image](https://github.com/ZeroUnreleased/ZeroUnreleased/assets/145182602/6c04de17-82cf-42c0-8290-54dc8706eb28)
+13. Y ahora debes ver si efectivamente tienes ese nuevo token GAD en tu wallet, que lo haces pegando tu dirección pública en [el explorador de bloques de Mumbai](https://mumbai.polygonscan.com/)
+   ![image](https://github.com/ZeroUnreleased/ZeroUnreleased/assets/145182602/5f77f74d-d8a2-4683-9de3-8708cae4b89e)
+14. Y aquí como la contrapartida ha abandonado mi wallet:
+   ![image](https://github.com/ZeroUnreleased/ZeroUnreleased/assets/145182602/4af900dd-8860-46b2-ad55-34a056118430)
+15. Y ya estaría!
+
+## Recuerdan en ZTO estamos para darte soporte en todos los pasos. Unete a nosotros. 
+ 
+
+
+
+
 
  
